@@ -82,13 +82,6 @@ Raw models without temporal context underperformed (R² ≈ 0.56).
 
 Model generalizes well without overfitting after careful tuning.
 
-📁 Project Structure
-
-├── data/
-│   └── cleaned_day_data_v2.csv
-├── notebooks/
-│   └── 3_model_training.ipynb
-├── README.md
 
 🚀 Next Steps
 
